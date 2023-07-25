@@ -24,12 +24,7 @@ export default function NavBar() {
   return (
     <div className="Nav-bar">
       <div className="nav-icon">
-        <Image
-          src="/../public/images/chicken.png"
-          alt=""
-          width="100"
-          height="100"
-        />
+        <Image src="/images/chicken.png" alt="" width="100" height="100" />
         <h2>FLAKO LTD</h2>
       </div>
       <motion.div
