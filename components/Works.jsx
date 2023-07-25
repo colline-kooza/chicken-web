@@ -37,9 +37,9 @@ export default function Works() {
             modules={[Pagination]}
             className="mySwiper"
           >
-            {workImage.map((image, i) => {
+            {workImage.map((image, index) => {
               return (
-                <SwiperSlide key={i}>
+                <SwiperSlide key={index}>
                   <Image
                     src={image}
                     alt="Flako Industries' skilled team works passionately, crafting unmatched quality products. With decades of experience, we lead the production industry, driven by excellence and innovation. Together, we deliver fine craftsmanship, ensuring customer satisfaction"
