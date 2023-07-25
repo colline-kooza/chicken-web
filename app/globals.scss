@@ -1,10 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Roboto:ital,wght@0,100;0,400;0,500;0,700;0,900;1,100;1,300&display=swap");
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
   font-family: "Roboto", sans-serif;
+  font-size: 1.2rem;
 }
-@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Roboto:ital,wght@0,100;0,400;0,500;0,700;0,900;1,100;1,300&display=swap");
+
 body {
   max-width: 100%;
   margin: auto 5rem;
@@ -168,11 +170,12 @@ $flakoColor: #6dbd45;
     }
 
     a {
-      padding: 10px 40px;
+      padding: 10px 30px;
       text-decoration: none;
       border: white 2px solid;
       color: white;
       transition: all 1s ease;
+      font-size: 18px;
       &:hover {
         background-color: black;
         color: white;
@@ -222,7 +225,7 @@ $flakoColor: #6dbd45;
   display: flex;
   flex-direction: column;
   gap: 40px;
-  margin-top: 7rem;
+  margin-top: 5rem;
   overflow: hidden;
   .welcome-image-text {
     display: flex;
@@ -559,6 +562,10 @@ $flakoColor: #6dbd45;
     border-radius: 10px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     transition: all 1s ease;
+    p {
+      font-size: 15px;
+      line-height: 26px;
+    }
     button {
       padding: 12px 25px;
       font-size: 14px;
@@ -931,7 +938,7 @@ $flakoColor: #6dbd45;
     width: 100%;
     height: 80vh;
     .About-image {
-      width: 45%;
+      width: 50%;
       height: 80vh;
       position: relative;
       .image {
@@ -946,7 +953,7 @@ $flakoColor: #6dbd45;
       justify-content: center;
       align-items: center;
       background-color: white;
-      width: 45%;
+      width: 50%;
       height: 90vh;
       gap: 2rem;
       padding: 2rem;
@@ -1261,7 +1268,11 @@ $flakoColor: #6dbd45;
     flex-direction: column;
     gap: 2rem;
     h2 {
-      font-size: 14px;
+      font-size: 16px;
+      line-height: 10px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
     }
     img {
       object-fit: contain;
@@ -1278,10 +1289,11 @@ $flakoColor: #6dbd45;
       text-decoration: none;
       color: white;
       font-weight: 400;
-      line-height: 40px;
+      line-height: 30px;
       display: flex;
       align-items: center;
       gap: 10px;
+      font-size: 16px;
       &:hover {
         color: black;
       }
@@ -1291,14 +1303,18 @@ $flakoColor: #6dbd45;
     display: flex;
     flex-direction: column;
     gap: 1rem;
-    font-size: 14px;
+    font-size: 15px;
     a {
       text-decoration: none;
       color: white;
       font-weight: 200;
+      font-size: 14px;
       &:hover {
         color: black;
       }
+    }
+    p {
+      font-size: 15px;
     }
   }
   .footer-image {
