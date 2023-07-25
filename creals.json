@@ -1,0 +1,32 @@
+{
+  "product": [
+    {
+      "header": "Premium Coffee",
+      "image": "/images/coffee.jpg",
+      "description": "Unleash your inner barista with our premium coffee seeds. Cultivate, harvest, and roast your own homegrown coffee beans. Embark on a journey of coffee connoisseurship!",
+      "button": "Buy Premium Coffee",
+      "slug": "premium-coffee-seeds"
+    },
+    {
+      "header": "Quality Grandnuts",
+      "image": "/images/grandunts.jpg",
+      "description": "Elevate your culinary creations with our high-quality Grandnuts seeds. Create delightful dishes and snacks with the treasure trove of flavor and texture.order now",
+      "button": "Buy High-Quality Grandnuts",
+      "slug": "high-quality-Grandnuts"
+    },
+    {
+      "header": "Premium Beans",
+      "image": "/images/beans.jpg",
+      "description": "Unlock the potential of your recipes with our premium bean seeds. Infuse your dishes with nutrition, taste, and texture. Order now and elevate your culinary creations!...AVAILABLE FOR WHOLESALE",
+      "button": "Buy Premium Beans",
+      "slug": "premium-beans"
+    },
+    {
+      "header": "Versatile Soybeans",
+      "image": "/images/soya.jpg",
+      "description": "Experience the versatility of our soybean seeds in your kitchen. Create wholesome, flavorful dishes packed with plant-based protein and nutrients. Ignite your passion for healthy cooking. Order now!",
+      "button": "Buy Versatile Soybeans",
+      "slug": "versatile-soybeans"
+    }
+  ]
+}

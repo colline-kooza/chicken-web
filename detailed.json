@@ -1,0 +1,40 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "header": "Premium Coffee",
+      "image": "/images/coffee.jpg",
+      "description": "Unleash your inner barista with our premium coffee beans. Embark on a journey of coffee connoisseurship and indulge in the exquisite flavors of freshly brewed coffee. Order now!",
+      "overview": "Unleash your inner barista with our premium coffee beans. Cultivate, harvest, and roast your own homegrown coffee beans to perfection. Whether you prefer a smooth espresso or a flavorful cup of drip coffee, our beans will satisfy your cravings and awaken your senses. Start your day right with the perfect cup.",
+      "button": "Order Now",
+      "slug": "premium-coffee-beans"
+    },
+    {
+      "id": 2,
+      "header": "Quality Grandnuts",
+      "image": "/images/grandunts.jpg",
+      "description": "Elevate your culinary creations with our high-quality Grandnuts seeds. Create delightful dishes and snacks with flavor and texture. Ignite your creativity and elevate your gastronomic experience. Order now!",
+      "overview": "Elevate your culinary creations with our high-quality Grandnuts seeds. Create delightful dishes and snacks. Unleash your creativity and elevate your gastronomic experience. Take your recipes to the next level with our premium selection of high-quality Grandnuts. Whether you're baking, cooking, or snacking, our Grandnuts will add gourmet excellence to every bite.",
+      "button": "Order Now",
+      "slug": "high-quality-Grandnuts"
+    },
+    {
+      "id": 3,
+      "header": "Premium Beans",
+      "image": "/images/beans.jpg",
+      "description": "Unlock the potential of your recipes with our premium bean seeds. Infuse your dishes with nutrition and taste. Explore the rich flavors and versatility. Order now!",
+      "overview": "Unlock the potential of your recipes with our premium bean seeds. Infuse your dishes with nutrition and taste. Explore the rich flavors and versatility. Elevate your cooking with our premium bean seeds. Whether you're a seasoned chef or a passionate home cook, our beans will inspire you to create extraordinary dishes. From comforting stews to vibrant salads, our beans will add depth and a satisfying texture to your culinary creations.",
+      "button": "Order Now",
+      "slug": "premium-beans"
+    },
+    {
+      "id": 4,
+      "header": "Versatile Soybeans",
+      "image": "/images/soya.jpg",
+      "description": "Experience the versatility of our soybean seeds. Create wholesome dishes packed with plant-based protein and nutrients. Ignite your passion for healthy cooking. Order now!",
+      "overview": "Experience the versatility of our soybean seeds. Create wholesome dishes packed with plant-based protein and nutrients. Ignite your passion for healthy cooking. Order now! Discover the incredible potential of our versatile soybean seeds. Whether you're looking to incorporate more plant-based protein into your diet or explore new flavors, our soybean seeds are your perfect kitchen companion. From stir-fries to soups, our soybean seeds will take your healthy cooking to a whole new level.",
+      "button": "Order Now",
+      "slug": "versatile-soybeans"
+    }
+  ]
+}
