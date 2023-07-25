@@ -9,7 +9,7 @@ export default function Welcome() {
       </div>
       <div className="welcome-main">
         <div className="welcome-image">
-          <Image src="/../public/images/chicks.jpg" alt="" fill />
+          <Image src="/images/chicks.jpg" alt="" fill />
         </div>
         <div className="welcome-text">
           <h4>Sustainable and Vibrant Chickens!</h4>
