@@ -29,7 +29,7 @@ export default function Blog() {
             affordable with exceptional nutritional quality.
           </h1>
           <div className="image">
-            <Image src="/images/hen.png" alt="" width={220} height={320} />
+            <Image src="/images/hen.png" alt="Flako Industries' skilled team works passionately, crafting unmatched quality products. With decades of experience, we lead the production industry, driven by excellence and innovation. Together, we deliver fine craftsmanship, ensuring customer satisfaction" width={220} height={320} />
           </div>
         </div>
       </div>

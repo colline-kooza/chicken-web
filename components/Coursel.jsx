@@ -34,7 +34,7 @@ export default function Coursel({ data }) {
                 <SwiperSlide key={index}>
                   <div className="div">
                     <div className="div-image">
-                      <Image src={item.image} alt="" fill />
+                      <Image src={item.image} alt="Flako Industries' skilled team works passionately, crafting unmatched quality products. With decades of experience, we lead the production industry, driven by excellence and innovation. Together, we deliver fine craftsmanship, ensuring customer satisfaction" fill />
                     </div>
                     <div className="div-text">
                       <h2>{item.header}</h2>

@@ -9,7 +9,7 @@ function Video({ removeFunction }) {
         width="560"
         height="315"
         src="https://www.youtube.com/embed/bYRtPpru3Ng"
-        title="YouTube video player"
+        title="Flako Industries' skilled team works passionately, crafting unmatched quality products. With decades of experience, we lead the production industry, driven by excellence and innovation. Together, we deliver fine craftsmanship, ensuring customer satisfaction"
         FrameBorder="0"
         allow="accelerometer; autoplay= clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         allowFullScreen

@@ -9,7 +9,11 @@ export default function About() {
       <div className="About-container">
         <div className="About-image">
           <div className="image">
-            <Image src={aboutImage} alt="" fill />
+            <Image
+              src={aboutImage}
+              alt="Flako Industries' skilled team works passionately, crafting unmatched quality products. With decades of experience, we lead the production industry, driven by excellence and innovation. Together, we deliver fine craftsmanship, ensuring customer satisfaction"
+              fill
+            />
           </div>
         </div>
         <div className="About-text">

@@ -40,7 +40,11 @@ export default function Works() {
             {workImage.map((image, i) => {
               return (
                 <SwiperSlide key={i}>
-                  <Image src={image} alt="" fill />
+                  <Image
+                    src={image}
+                    alt="Flako Industries' skilled team works passionately, crafting unmatched quality products. With decades of experience, we lead the production industry, driven by excellence and innovation. Together, we deliver fine craftsmanship, ensuring customer satisfaction"
+                    fill
+                  />
                 </SwiperSlide>
               );
             })}

@@ -9,7 +9,7 @@ export default function Footer() {
   return (
     <div id="footer" className="Footer">
       <div className="footer-icon">
-        <img src="/images/flako.png" alt="" width={200} height={200} />
+        <img src="/images/flako.png" alt="Flako Industries' skilled team works passionately, crafting unmatched quality products. With decades of experience, we lead the production industry, driven by excellence and innovation. Together, we deliver fine craftsmanship, ensuring customer satisfaction" width={200} height={200} />
         <h2>
           {" "}
           <BiSolidPhoneCall /> +256 774522363
@@ -41,7 +41,7 @@ export default function Footer() {
         <p>Flakoug@gmail.com</p>
       </div>
       <div className="footer-image">
-        <Image src={googleImage} alt="" width={200} height={200} />
+        <Image src={googleImage} alt="Flako Industries' skilled team works passionately, crafting unmatched quality products. With decades of experience, we lead the production industry, driven by excellence and innovation. Together, we deliver fine craftsmanship, ensuring customer satisfaction" width={200} height={200} />
       </div>
     </div>
   );

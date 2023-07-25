@@ -9,7 +9,11 @@ export default function Welcome() {
       </div>
       <div className="welcome-main">
         <div className="welcome-image">
-          <Image src="/images/chicks.jpg" alt="" fill />
+          <Image
+            src="/images/chicks.jpg"
+            alt="Flako Industries' skilled team works passionately, crafting unmatched quality products. With decades of experience, we lead the production industry, driven by excellence and innovation. Together, we deliver fine craftsmanship, ensuring customer satisfaction"
+            fill
+          />
         </div>
         <div className="welcome-text">
           <h4>Sustainable and Vibrant Chickens!</h4>

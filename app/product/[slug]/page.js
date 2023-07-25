@@ -9,7 +9,7 @@ export default async function page({ params: { slug } }) {
     <div className="main-products">
       <div className="products-image">
         <div className="image">
-          <Image src={product.image} alt="" objectFit="contain" fill />
+          <Image src={product.image} alt="Flako Industries' skilled team works passionately, crafting unmatched quality products. With decades of experience, we lead the production industry, driven by excellence and innovation. Together, we deliver fine craftsmanship, ensuring customer satisfaction" objectFit="contain" fill />
         </div>
       </div>
       <div className="product-header">

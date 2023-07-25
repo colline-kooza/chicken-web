@@ -14,7 +14,12 @@ import Works from "@/components/Works";
 export default async function Page() {
   const products = await getproducts();
   const detailedProducts = await getDetails();
-
+  const metadata = {
+    title: "home",
+    alternates: {
+      canonical: "/home",
+    },
+  };
   return (
     <div className="main">
       <Home />

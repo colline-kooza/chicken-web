@@ -24,7 +24,7 @@ export default function NavBar() {
   return (
     <div className="Nav-bar">
       <div className="nav-icon">
-        <Image src="/images/chicken.png" alt="" width="100" height="100" />
+        <Image src="/images/chicken.png" alt="Flako Industries' skilled team works passionately, crafting unmatched quality products. With decades of experience, we lead the production industry, driven by excellence and innovation. Together, we deliver fine craftsmanship, ensuring customer satisfaction" width="100" height="100" />
         <h2>FLAKO LTD</h2>
       </div>
       <motion.div
